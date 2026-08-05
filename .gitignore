@@ -3,3 +3,9 @@ Thumbs.db
 ~$*
 .idea/
 .ipynb_checkpoints/
+# --- Служебные markdown-файлы вне репозитория ---
+*.md
+!README.md
+
+# --- Секреты ---
+.env
